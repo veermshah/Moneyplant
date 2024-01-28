@@ -46,19 +46,7 @@ export default function Home() {
                         <img src="tree.png" id="tree" />
                         <h2 id="text" className="font-bold">
                             Moneyplant
-                            <section>
-                                // <Typewriter
-                                //     options={{
-                                //         strings: [
-                                //             "RoboAdvising.",
-                                //             "Automatic Trading.",
-                                //             "Financial Peace.",
-                                //         ],
-                                //         autoStart: true,
-                                //         loop: true,
-                                //     }}
-                                // />
-                            </section>
+                            
                         </h2>
 
                         <img src="leaf.png" id="leaf" />
