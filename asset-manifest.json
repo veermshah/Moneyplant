@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b611725.css",
+    "main.js": "/static/js/main.598f5100.js",
+    "static/media/waterfall.mp4": "/static/media/waterfall.4c9e0edffb68b63e14d5.mp4",
+    "static/media/natureMusic.mp3": "/static/media/natureMusic.df39338fd0bfbfb24144.mp3",
+    "index.html": "/index.html",
+    "main.8b611725.css.map": "/static/css/main.8b611725.css.map",
+    "main.598f5100.js.map": "/static/js/main.598f5100.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b611725.css",
+    "static/js/main.598f5100.js"
+  ]
+}
