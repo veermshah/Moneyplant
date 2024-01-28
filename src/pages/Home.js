@@ -2,7 +2,7 @@ import React from "react";
 import { useEffect } from "react";
 import Header from "../components/Header";
 import { useNavigate } from "react-router-dom";
-import Typewriter from "typewriter-effect";
+// import Typewriter from "typewriter-effect";
 import { motion } from "framer-motion";
 
 export default function Home() {
@@ -47,17 +47,17 @@ export default function Home() {
                         <h2 id="text" className="font-bold">
                             Moneyplant
                             <section>
-                                <Typewriter
-                                    options={{
-                                        strings: [
-                                            "RoboAdvising.",
-                                            "Automatic Trading.",
-                                            "Financial Peace.",
-                                        ],
-                                        autoStart: true,
-                                        loop: true,
-                                    }}
-                                />
+                                // <Typewriter
+                                //     options={{
+                                //         strings: [
+                                //             "RoboAdvising.",
+                                //             "Automatic Trading.",
+                                //             "Financial Peace.",
+                                //         ],
+                                //         autoStart: true,
+                                //         loop: true,
+                                //     }}
+                                // />
                             </section>
                         </h2>
 
